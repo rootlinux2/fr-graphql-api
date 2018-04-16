@@ -1,0 +1,49 @@
+{
+    "name": "@front10/graphql-api",
+    "version": "1.0.0",
+    "description": "Front10 GraphQl api project",
+    "main": "server.js",
+    "dependencies": {
+        "apollo-server-express": "^1.3.4",
+        "axios": "^0.18.0",
+        "babel-core": "^6.26.0",
+        "babel-loader": "^7.1.4",
+        "babel-polyfill": "^6.26.0",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-0": "^6.24.1",
+        "body-parser": "^1.18.2",
+        "express": "^4.16.3",
+        "graphql": "^0.13.2",
+        "graphql-server-express": "^1.3.4",
+        "graphql-tools": "^2.23.1",
+        "jshint": "^2.9.5",
+        "json-server": "^0.12.1"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "casual": "^1.5.19",
+        "eslint": "^4.19.1",
+        "eslint-config-airbnb-base": "^12.1.0",
+        "eslint-plugin-es6-recommended": "^0.1.2",
+        "eslint-plugin-import": "^2.11.0",
+        "eslint-plugin-node": "^6.0.1",
+        "husky": "^0.14.3",
+        "lodash": "^4.17.5",
+        "nodemon": "^1.17.3",
+        "webpack": "^4.5.0"
+    },
+    "scripts": {
+        "dev-server": "babel-node server.js",
+        "json-server": "json-server --watch database.json",
+        "start": "npm run -s dev-server & npm run -s json-server",
+        "eslint": "./node_modules/.bin/eslint ./",
+        "precommit": "npm run eslint",
+        "prepush": "npm run eslint"
+    },
+    "engines": {
+        "node": "^8.11.1"
+    },
+    "author": "",
+    "license": "ISC"
+}

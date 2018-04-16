@@ -1,0 +1,2724 @@
+{
+    "doctor": [{
+            "id": 1,
+            "firstName": "Tom",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "firstName": "Alex",
+            "lastName": "Coleman",
+            "age": 31,
+            "title": "MD",
+            "gender": 0,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 3,
+            "firstName": "Peter",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 4,
+            "firstName": "Jef",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 5,
+            "firstName": "Charly",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 6,
+            "firstName": "Brad",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 7,
+            "firstName": "Antony",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 8,
+            "firstName": "Michael",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 9,
+            "firstName": "Janet",
+            "lastName": "Bowman",
+            "age": 30,
+            "title": "MD",
+            "gender": 0,
+            "details": "H University",
+            "image": "",
+            "rating": 4.5
+        },
+        {
+            "id": 10,
+            "firstName": "Michelle",
+            "lastName": "Coleman",
+            "age": 25,
+            "title": "MD",
+            "gender": 0,
+            "details": "H University",
+            "image": "",
+            "rating": 4.3
+        },
+        {
+            "id": 11,
+            "firstName": "Sander",
+            "lastName": "Coleman",
+            "age": 30,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 3.9
+        },
+        {
+            "id": 12,
+            "firstName": "Jhon",
+            "lastName": "Doe",
+            "age": 38,
+            "title": "MD",
+            "gender": 1,
+            "details": "H University",
+            "image": "",
+            "rating": 4.7
+        }
+    ],
+    "address": [{
+            "id": 1,
+            "doctorId": 1,
+            "streetAddress": "Ave. aa % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+
+        },
+        {
+            "id": 2,
+            "doctorId": 3,
+            "streetAddress": "Ave. bb % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+
+        },
+        {
+            "id": 3,
+            "doctorId": 2,
+            "streetAddress": "Ave. cc % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 4,
+            "doctorId": 5,
+            "streetAddress": "Ave. dd % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 5,
+            "doctorId": 4,
+            "streetAddress": "Ave. rr % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 6,
+            "doctorId": 6,
+            "streetAddress": "Ave. tt % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 7,
+            "doctorId": 7,
+            "streetAddress": "Ave. yy % 1 y 3",
+            "city": "Amsterdam",
+            "state": "North Holland",
+            "country": "Netherland",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 8,
+            "doctorId": 7,
+            "streetAddress": "Ave. yy % 1 y 3",
+            "city": "Vedado",
+            "state": "Havana",
+            "country": "Cuba",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 9,
+            "doctorId": 7,
+            "streetAddress": "Ave. yy % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 10,
+            "doctorId": 7,
+            "streetAddress": "Ave. yy % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 11,
+            "doctorId": 7,
+            "streetAddress": "Ave. yy % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        },
+        {
+            "id": 7,
+            "doctorId": 7,
+            "streetAddress": "Ave. yy % 1 y 3",
+            "city": "Barcelona",
+            "state": "Barcelona",
+            "country": "Spain",
+            "latitude": "89.56525358",
+            "longitude": "-75.6523689",
+            "zip": "10400"
+        }
+    ],
+    "horary": [{
+            "id": 1,
+            "doctorId": 1,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 2,
+            "doctorId": 3,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 3,
+            "doctorId": 2,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 4,
+            "doctorId": 5,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 5,
+            "doctorId": 4,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 6,
+            "doctorId": 6,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 7,
+            "doctorId": 7,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 8,
+            "doctorId": 7,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 9,
+            "doctorId": 7,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 10,
+            "doctorId": 7,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 11,
+            "doctorId": 7,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        },
+        {
+            "id": 7,
+            "doctorId": 7,
+            "date": ["2018/04/10 14:30:00", "2018/04/10 15:30:00", "2018/04/10 16:30:00"]
+        }
+    ],
+    "language": [{
+        "id": 1,
+        "doctorId": 1,
+        "name": "English"
+    }, {
+        "id": 2,
+        "doctorId": 1,
+        "name": "Spanish"
+    }, {
+        "id": 3,
+        "doctorId": 7,
+        "name": "Germany"
+    }, {
+        "id": 4,
+        "doctorId": 7,
+        "name": "French"
+    }],
+    "procedure": [{
+        "id": 1,
+        "doctorId": 1,
+        "name": "General Consultation"
+    }, {
+        "id": 2,
+        "doctorId": 1,
+        "name": "General Follow Up"
+    }, {
+        "id": 3,
+        "doctorId": 2,
+        "name": "Anke Problems"
+    }, {
+        "id": 4,
+        "doctorId": 3,
+        "name": "Anke Problems"
+    }, {
+        "id": 5,
+        "doctorId": 7,
+        "name": "Anke Problems"
+    }, {
+        "id": 6,
+        "doctorId": 7,
+        "name": "Annual Physical"
+    }, {
+        "id": 7,
+        "doctorId": 7,
+        "name": "General Consultation"
+    }, {
+        "id": 8,
+        "doctorId": 7,
+        "name": "General Follow Up"
+    }],
+    "carrier": [{
+            "id": 300,
+            "name": "Aetna",
+            "rank": 37636.994317144,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 324,
+            "name": "Anthem Blue Cross Blue Shield",
+            "rank": 10213.440206576,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 338,
+            "name": "EmblemHealth (formerly known as GHI)",
+            "rank": 8686.058181978,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 366,
+            "name": "HealthFirst (NY)",
+            "rank": 3903.0660448,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 550,
+            "name": "Anthem Blue Cross",
+            "rank": 3450.7950975920003,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 451,
+            "name": "Blue Cross Blue Shield of Illinois",
+            "rank": 3020.059587,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 450,
+            "name": "Medi-Cal",
+            "rank": 2361.2456618,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 388,
+            "name": "AmeriGroup",
+            "rank": 2354.217945666,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 337,
+            "name": "EmblemHealth (formerly known as HIP)",
+            "rank": 1248.290164966,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 340,
+            "name": "Affinity Health Plan",
+            "rank": 1213.628998868,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 572,
+            "name": "Blue Cross Blue Shield of Arizona",
+            "rank": 1138.936626854,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 560,
+            "name": "AvMed",
+            "rank": 667.424599198,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 500,
+            "name": "Public Aid (Illinois Medicaid)",
+            "rank": 571.477384268,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 793,
+            "name": "Blue Cross Blue Shield of Alabama",
+            "rank": 496.44703772,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "score": 0.6263085,
+            "planid": 12739,
+            "plan_name": "Blue Cross Blue Shield Basic, a MultiState Plan",
+            "id": 509,
+            "name": "Blue Cross Blue Shield of Texas",
+            "rank": 449.0631945,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 324,
+            "name": "Anthem Blue Cross Blue Shield",
+            "rank": 330.00525000000005,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 326,
+            "name": "AmeriHealth",
+            "rank": 263.05684563,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 290,
+            "name": "AARP",
+            "rank": 216.49146539,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 324,
+            "name": "Anthem Blue Cross Blue Shield",
+            "rank": 194.7030975,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 335,
+            "name": "Assurant Health",
+            "rank": 185.8859937,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 642,
+            "name": "Maryland Medical Assistance (Medicaid)",
+            "rank": 169.325241534,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 509,
+            "name": "Blue Cross Blue Shield of Texas",
+            "rank": 162.21390150000002,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 369,
+            "name": "Coventry Health Care",
+            "rank": 123.26715,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 301,
+            "name": "HAP (Health Alliance Plan)",
+            "rank": 120.35648683000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 755,
+            "name": "Sierra Health and Life",
+            "rank": 109.09066903,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 682,
+            "name": "Preferred Medical Plan",
+            "rank": 80.8632504,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1010,
+            "name": "Arkansas Blue Cross Blue Shield",
+            "rank": 78.10967008,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 786,
+            "name": "Priority Health",
+            "rank": 77.23944900000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 565,
+            "name": "HighMark Blue Shield",
+            "rank": 61.9388662,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 509,
+            "name": "Blue Cross Blue Shield of Texas",
+            "rank": 60.7519245,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 549,
+            "name": "Avesis",
+            "rank": 49.907572854,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 366,
+            "name": "HealthFirst (NY)",
+            "rank": 49.6238288,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1323,
+            "name": "Ambetter",
+            "rank": 45.363693008,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 601,
+            "name": "Premera Blue Cross",
+            "rank": 40.083744,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1136,
+            "name": "Health Choice Arizona",
+            "rank": 37.289856918,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 391,
+            "name": "APWU",
+            "rank": 35.825300604,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 547,
+            "name": "National Vision Administrators",
+            "rank": 30.60547169,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1298,
+            "name": "Aetna Better Health",
+            "rank": 29.178468102,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 533,
+            "name": "Adventist Health",
+            "rank": 28.953151746,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 291,
+            "name": "AIG",
+            "rank": 25.047668242,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 451,
+            "name": "Blue Cross Blue Shield of Illinois",
+            "rank": 24.4260315,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 793,
+            "name": "Blue Cross Blue Shield of Alabama",
+            "rank": 22.6782976,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1096,
+            "name": "Blue Cross Blue Shield of New Mexico",
+            "rank": 22.547106000000003,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 563,
+            "name": "Independence Blue Cross",
+            "rank": 21.6412906,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 21.6412906,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 451,
+            "name": "Blue Cross Blue Shield of Illinois",
+            "rank": 20.668180500000002,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 336,
+            "name": "Empire Blue Cross Blue Shield",
+            "rank": 20.668180500000002,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 563,
+            "name": "Independence Blue Cross",
+            "rank": 17.9100336,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1076,
+            "name": "Blue Cross Blue Shield of Florida (Florida Blue)",
+            "rank": 16.457691699999998,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1207,
+            "name": "Blue Cross Blue Shield of Montana",
+            "rank": 16.284021000000003,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 771,
+            "name": "Advantica",
+            "rank": 15.659486742,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 793,
+            "name": "Blue Cross Blue Shield of Alabama",
+            "rank": 15.3888448,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 877,
+            "name": "Alameda Alliance for Health",
+            "rank": 15.0210904,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1215,
+            "name": "Access Medicare (NY)",
+            "rank": 14.608010414,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 13.1524785,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 638,
+            "name": "Florida Blue: Blue Cross Blue Shield of Florida",
+            "rank": 12.1267202,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 534,
+            "name": "PBA (Patrolmen's Benefit Association)",
+            "rank": 11.979319594,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 678,
+            "name": "Arizona Foundation for Medical Care",
+            "rank": 11.866661416000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 976,
+            "name": "Amida Care",
+            "rank": 10.777632362,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 808,
+            "name": "Blue Cross of Northeastern Pennsylvania",
+            "rank": 10.4475196,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 451,
+            "name": "Blue Cross Blue Shield of Illinois",
+            "rank": 10.020936,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1060,
+            "name": "Advocate Health Care",
+            "rank": 9.989025116,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 568,
+            "name": "Blue Cross Blue Shield of Georgia",
+            "rank": 9.7012682,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 622,
+            "name": "AmeriHealth Caritas",
+            "rank": 9.162865144,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 325,
+            "name": "Altius (Coventry Health Care)",
+            "rank": 8.336705172,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 336,
+            "name": "Empire Blue Cross Blue Shield",
+            "rank": 8.142010500000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 797,
+            "name": "Blue Cross Blue Shield of South Carolina",
+            "rank": 7.515702000000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1198,
+            "name": "Hawaii Medical Service Association (HMSA)",
+            "rank": 7.0974652140000005,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 797,
+            "name": "Blue Cross Blue Shield of South Carolina",
+            "rank": 6.263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 5.636776500000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1085,
+            "name": "Allegiance Life and Health",
+            "rank": 5.6329089,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 5.2237598,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 453,
+            "name": "Community Health Alliance",
+            "rank": 5.219828914,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1130,
+            "name": "Aultcare",
+            "rank": 5.182276188,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1122,
+            "name": "Health Alliance",
+            "rank": 5.182276188,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1053,
+            "name": "Assurant Employee Benefits",
+            "rank": 4.919407106,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1022,
+            "name": "Standard Life and Accident Insurance Company",
+            "rank": 4.769196202,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 708,
+            "name": "AlwaysCare",
+            "rank": 4.69409075,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 816,
+            "name": "Ascension Health",
+            "rank": 4.618985298,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 768,
+            "name": "Gilsbar 360 Alliance",
+            "rank": 4.618985298,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 810,
+            "name": "Blue Cross Blue Shield of Kansas",
+            "rank": 4.3841595,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 565,
+            "name": "HighMark Blue Shield",
+            "rank": 4.3841595,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 455,
+            "name": "Advantage Health ",
+            "rank": 4.243458038,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 911,
+            "name": "Florida Health Care Plans",
+            "rank": 3.9445488,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1311,
+            "name": "Allianz Worldwide Care",
+            "rank": 3.8303780520000004,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 526,
+            "name": "Accountable Health Plan of Ohio",
+            "rank": 3.717719874,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 480,
+            "name": "ACE ",
+            "rank": 3.717719874,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1084,
+            "name": "Alliant Health Plans",
+            "rank": 3.717719874,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 427,
+            "name": "Liberty Health Advantage",
+            "rank": 3.4172980660000003,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 556,
+            "name": "Comprehensive Medical and Dental Program (CMDP)",
+            "rank": 3.154428984,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 854,
+            "name": "Blue Cross Blue Shield of Oklahoma",
+            "rank": 3.1315425,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 854,
+            "name": "Blue Cross Blue Shield of Oklahoma",
+            "rank": 2.505234,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1239,
+            "name": "Absolute Total Care",
+            "rank": 2.3282690120000002,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 565,
+            "name": "HighMark Blue Shield",
+            "rank": 2.2387542,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1324,
+            "name": "Agile Health Insurance",
+            "rank": 2.178058108,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1083,
+            "name": "Colorado Access",
+            "rank": 1.8776363,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1314,
+            "name": "All Savers Insurance",
+            "rank": 1.6147672180000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 1.4925028,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 828,
+            "name": "Blue Cross Blue Shield of Tennessee",
+            "rank": 1.4925028,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 568,
+            "name": "Blue Cross Blue Shield of Georgia",
+            "rank": 1.4925028,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 728,
+            "name": "Care Access Health Plan",
+            "rank": 1.3894508620000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1187,
+            "name": "Allegian Health Plans",
+            "rank": 1.31434541,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 324,
+            "name": "Anthem Blue Cross Blue Shield",
+            "rank": 1.259725,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 1.252617,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 932,
+            "name": "Central California Alliance for Health",
+            "rank": 1.239239958,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1188,
+            "name": "QualChoice Arkansas",
+            "rank": 1.12658178,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1352,
+            "name": "Banker's Life",
+            "rank": 0.9861372,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 911,
+            "name": "Florida Health Care Plans",
+            "rank": 0.9861372,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 456,
+            "name": "Preferred Network Access (PNA)",
+            "rank": 0.788607246,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 565,
+            "name": "HighMark Blue Shield",
+            "rank": 0.7462514,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 828,
+            "name": "Blue Cross Blue Shield of Tennessee",
+            "rank": 0.7462514,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 311,
+            "name": "Golden Rule",
+            "rank": 0.7462514,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 311,
+            "name": "Golden Rule",
+            "rank": 0.7462514,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 828,
+            "name": "Blue Cross Blue Shield of Tennessee",
+            "rank": 0.7462514,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 716,
+            "name": "Asuris Northwest Health",
+            "rank": 0.713501794,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 909,
+            "name": "America's 1st Choice",
+            "rank": 0.675949068,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 991,
+            "name": "Amplifon Hearing Health Care",
+            "rank": 0.6383963420000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 810,
+            "name": "Blue Cross Blue Shield of Kansas",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1331,
+            "name": "USAble Mutual Insurance Company",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1331,
+            "name": "USAble Mutual Insurance Company",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1331,
+            "name": "USAble Mutual Insurance Company",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 854,
+            "name": "Blue Cross Blue Shield of Oklahoma",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1117,
+            "name": "Consumers' Choice Health Plan",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1117,
+            "name": "Consumers' Choice Health Plan",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 564,
+            "name": "HighMark Blue Cross Blue Shield",
+            "rank": 0.6263085,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1291,
+            "name": "AgeWell New York",
+            "rank": 0.600843616,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 711,
+            "name": "American Republic Insurance Company",
+            "rank": 0.600843616,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1241,
+            "name": "California Health and Wellness",
+            "rank": 0.600843616,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 993,
+            "name": "Best Life And Health",
+            "rank": 0.488185438,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1290,
+            "name": "AlphaCare",
+            "rank": 0.337974534,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1297,
+            "name": "Commonwealth Care Alliance",
+            "rank": 0.26286908200000003,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1160,
+            "name": "Arise Health Plan",
+            "rank": 0.18776363000000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1186,
+            "name": "KelseyCare Advantage",
+            "rank": 0.18776363000000001,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1354,
+            "name": "AdvantageMD",
+            "rank": 0.150210904,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 957,
+            "name": "AltaMed Senior BuenaCare (PACE)",
+            "rank": 0.150210904,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1228,
+            "name": "American Behavioral",
+            "rank": 0.150210904,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1173,
+            "name": "AlohaCare",
+            "rank": 0.112658178,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1195,
+            "name": "Avera Health Plans",
+            "rank": 0.112658178,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1112,
+            "name": "Patient 1st (Alabama Medicaid)",
+            "rank": 0.112658178,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1252,
+            "name": "South Country Health Alliance",
+            "rank": 0.112658178,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1054,
+            "name": "American Eldercare",
+            "rank": 0.075105452,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 926,
+            "name": "ATRIO Health Plans",
+            "rank": 0.075105452,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1206,
+            "name": "Hawaii Medical Assurance Association (HMAA)",
+            "rank": 0.075105452,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 990,
+            "name": "Hear In America",
+            "rank": 0.075105452,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1433,
+            "name": "Alignment Health Plan",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1474,
+            "name": "AllCare Health",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1471,
+            "name": "Allwell",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1431,
+            "name": "American Healthcare Alliance",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1363,
+            "name": "Amish Church Fund ",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1426,
+            "name": "ArchCare",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 984,
+            "name": "Averde Health",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 925,
+            "name": "Cascade Health Alliance",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1424,
+            "name": "Community Care Alliance of Illinois",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1415,
+            "name": "Department of Medical Assistance Services",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1429,
+            "name": "Erickson Advantage",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1497,
+            "name": "Great American Insurance",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1481,
+            "name": "PA Medical Assistance",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1229,
+            "name": "Pacific Health Alliance",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1360,
+            "name": "Pan-American Life Insurance Group ",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1191,
+            "name": "Physician Assured Access System",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        },
+        {
+            "id": 1462,
+            "name": "Texas Health Aetna",
+            "rank": 0.037552726,
+            "Doctor": [{ "doctorId": 1 }, { "doctorId": 2 }, { "doctorId": 7 }]
+        }
+    ],
+    "medicalPlane": [{
+            "id": 4083,
+            "name": "Blue Access PPO",
+            "carrierid": 324,
+            "rank": 1935.1293942000002
+        },
+        {
+            "id": 10041,
+            "name": "Advantage PPO",
+            "carrierid": 324,
+            "rank": 1572.5131535
+        },
+        {
+            "id": 2835,
+            "name": "Anthem KeyCare PPO",
+            "carrierid": 324,
+            "rank": 429.3337799
+        },
+        {
+            "id": 14610,
+            "name": "Anthem Blue Cross and Blue Shield Gold DirectAccess, a Multi-State Plan",
+            "carrierid": 324,
+            "rank": 366.54398
+        },
+        {
+            "id": 10073,
+            "name": "Access Blue",
+            "carrierid": 324,
+            "rank": 245.78035775
+        },
+        {
+            "id": 3872,
+            "name": "Anthem Blue Cross POS - HMO",
+            "carrierid": 324,
+            "rank": 235.43593160000003
+        },
+        {
+            "id": 14611,
+            "name": "Anthem Blue Cross and Blue Shield Silver DirectAccess, a Multi-State Plan",
+            "carrierid": 324,
+            "rank": 216.2609482
+        },
+        {
+            "id": 10118,
+            "name": "Blue Access Choice (PPO) (Missouri)",
+            "carrierid": 324,
+            "rank": 152.359765
+        },
+        {
+            "id": 2838,
+            "name": "Anthem Medicare Preferred",
+            "carrierid": 324,
+            "rank": 150.5955993
+        },
+        {
+            "id": 2665,
+            "name": "Anthem HealthKeepers (HMO)",
+            "carrierid": 324,
+            "rank": 120.76516110000001
+        },
+        {
+            "id": 2775,
+            "name": "Anthem Vision",
+            "carrierid": 324,
+            "rank": 104.64710175
+        },
+        {
+            "id": 2834,
+            "name": "Anthem HealthKeepers Plus (Medicaid)",
+            "carrierid": 324,
+            "rank": 104.40653370000001
+        },
+        {
+            "id": 10147,
+            "name": "Anthem BlueCare",
+            "carrierid": 324,
+            "rank": 97.91119635000001
+        },
+        {
+            "id": 10042,
+            "name": "Anthem Medicare Preferred (PPO) (California)",
+            "carrierid": 324,
+            "rank": 90.85453355000001
+        },
+        {
+            "id": 3871,
+            "name": "Advantage HMO",
+            "carrierid": 324,
+            "carrier_name": "Anthem Blue Cross Blue Shield",
+            "rank": 88.84979980000001
+        },
+        {
+            "id": 10150,
+            "name": "Anthem KeyCare HSA",
+            "carrierid": 324,
+            "rank": 40.5758111
+        },
+        {
+            "id": 9504,
+            "name": "Blue Access Network (Indiana)",
+            "carrierid": 324,
+            "rank": 25.740781350000002
+        },
+        {
+            "id": 10144,
+            "name": "Anthem Medicare Preferred (PPO) (Ohio)",
+            "carrierid": 324,
+            "rank": 23.8964263
+        },
+        {
+            "id": 10060,
+            "name": "Anthem Medicare Preferred (PPO) (Colorado)",
+            "carrierid": 324,
+            "rank": 23.81623695
+        },
+        {
+            "id": 10472,
+            "name": "Anthem MediBlue Preferred (PPO) (Connecticut)",
+            "carrierid": 324,
+            "rank": 18.84449725
+        },
+        {
+            "id": 9535,
+            "name": "Blue Access Network (Ohio)",
+            "carrierid": 324,
+            "rank": 17.641657000000002
+        },
+        {
+            "id": 9521,
+            "name": "Access Blue New England Network (New Hampshire)",
+            "carrierid": 324,
+            "rank": 16.59919545
+        },
+        {
+            "id": 10043,
+            "name": "Anthem Medicare Preferred Standard (PPO) (California)",
+            "carrierid": 324,
+            "rank": 15.31616585
+        },
+        {
+            "id": 2837,
+            "name": "Anthem KeyCare POS",
+            "carrierid": 324,
+            "rank": 11.78783445
+        },
+        {
+            "id": 13894,
+            "name": "Anthem Gold 80 PPO",
+            "carrierid": 324,
+            "rank": 11.14631965
+        },
+        {
+            "id": 10125,
+            "name": "Anthem Medicare Preferred (PPO) (Nevada)",
+            "carrierid": 324,
+            "rank": 11.066130300000001
+        },
+        {
+            "id": 14685,
+            "name": "Anthem Gold Blue Access PPO",
+            "carrierid": 324,
+            "rank": 10.504804850000001
+        },
+        {
+            "id": 10117,
+            "name": "Anthem Medicare Preferred (PPO) (Missouri)",
+            "carrierid": 324,
+            "rank": 10.184047450000001
+        },
+        {
+            "id": 10151,
+            "name": "Anthem Medicare Preferred Classic (PPO) (Virginia)",
+            "carrierid": 324,
+            "rank": 10.02366875
+        },
+        {
+            "id": 10116,
+            "name": "Anthem Essential Select",
+            "carrierid": 324,
+            "rank": 9.382153950000001
+        },
+        {
+            "id": 10075,
+            "name": "Anthem Medicare Preferred Standard (PPO) (Connecticut)",
+            "carrierid": 324,
+            "rank": 9.1415859
+        },
+        {
+            "id": 13888,
+            "name": "Anthem Bronze 60 HSA PPO",
+            "carrierid": 324,
+            "rank": 8.9812072
+        },
+        {
+            "id": 10119,
+            "name": "Blue Access Choice - S (Missouri)",
+            "carrierid": 324,
+            "rank": 8.9812072
+        },
+        {
+            "id": 10088,
+            "name": "Anthem Medicare Preferred (PPO) (Indiana)",
+            "carrierid": 324,
+            "rank": 8.740639150000002
+        },
+        {
+            "id": 13895,
+            "name": "Anthem Platinum 90 PPO",
+            "carrierid": 324,
+            "rank": 8.6604498
+        },
+        {
+            "id": 10098,
+            "name": "Anthem Medicare Preferred (PPO) (Kentucky)",
+            "carrierid": 324,
+            "rank": 8.58026045
+        },
+        {
+            "id": 13891,
+            "name": "Anthem Silver 70 PPO",
+            "carrierid": 324,
+            "rank": 8.3396924
+        },
+        {
+            "id": 14684,
+            "name": "Anthem Bronze Blue Access PPO",
+            "carrierid": 324,
+            "rank": 8.018935
+        },
+        {
+            "id": 10167,
+            "name": "Blue Preferred POS (Alternate Network)",
+            "carrierid": 324,
+            "rank": 6.735905400000001
+        },
+        {
+            "id": 14608,
+            "name": "Anthem Silver Pathway X PPO",
+            "carrierid": 324,
+            "rank": 6.495337350000001
+        },
+        {
+            "id": 10180,
+            "name": "Blue Access Choice Network (Missouri)",
+            "carrierid": 324,
+            "rank": 6.2547693
+        },
+        {
+            "id": 14681,
+            "name": "Anthem Silver Pathway PPO",
+            "carrierid": 324,
+            "rank": 5.85382255
+        },
+        {
+            "id": 10034,
+            "name": "Blue Medicare Advantage PPO",
+            "carrierid": 324,
+            "rank": 5.773633200000001
+        },
+        {
+            "id": 9508,
+            "name": "Blue Access Network (Kentucky)",
+            "carrierid": 324,
+            "rank": 5.6132545
+        },
+        {
+            "id": 10152,
+            "name": "Anthem Medicare Preferred Premier (PPO) (Virginia)",
+            "carrierid": 324,
+            "rank": 5.372686450000001
+        },
+        {
+            "id": 10038,
+            "name": "Access for Infants & Mothers (AIM) EPO",
+            "carrierid": 324,
+            "rank": 5.212307750000001
+        },
+        {
+            "id": 14686,
+            "name": "Anthem Silver Blue Access PPO",
+            "carrierid": 324,
+            "rank": 5.212307750000001
+        },
+        {
+            "id": 13889,
+            "name": "Anthem Bronze 60 PPO",
+            "carrierid": 324,
+            "rank": 4.9717397000000005
+        },
+        {
+            "id": 10153,
+            "name": "Anthem Medicare Preferred Standard (PPO) (Virginia)",
+            "carrierid": 324,
+            "rank": 4.73117165
+        },
+        {
+            "id": 14680,
+            "name": "Anthem Bronze Pathway PPO",
+            "carrierid": 324,
+            "rank": 4.650982300000001
+        },
+        {
+            "id": 10080,
+            "name": "Anthem MediBlue (HMO) (Connecticut)",
+            "carrierid": 324,
+            "rank": 4.08965685
+        },
+        {
+            "id": 10169,
+            "name": "Anthem Medicare Preferred (PPO) (Wisconsin)",
+            "carrierid": 324,
+            "rank": 4.08965685
+        },
+        {
+            "id": 14682,
+            "name": "Anthem Gold Pathway PPO",
+            "carrierid": 324,
+            "rank": 3.4481420500000004
+        },
+        {
+            "id": 10062,
+            "name": "Anthem Medicare Preferred Premier (PPO) (Colorado)",
+            "carrierid": 324,
+            "rank": 2.9670059500000003
+        },
+        {
+            "id": 14229,
+            "name": "Anthem Bronze Pathway X HMO",
+            "carrierid": 324,
+            "rank": 2.8868166000000004
+        },
+        {
+            "id": 10104,
+            "name": "Anthem Medicare Preferred (PPO) (Maine)",
+            "carrierid": 324,
+            "rank": 2.7264379
+        },
+        {
+            "id": 14228,
+            "name": "Anthem Silver Pathway X HMO",
+            "carrierid": 324,
+            "rank": 2.5660592
+        },
+        {
+            "id": 10475,
+            "name": "BlueChoice (Alternate Network) (Virginia)",
+            "carrierid": 324,
+            "rank": 2.3254911500000004
+        },
+        {
+            "id": 14607,
+            "name": "Anthem Bronze Pathway X PPO",
+            "carrierid": 324,
+            "rank": 2.2453018
+        },
+        {
+            "id": 10464,
+            "name": "Anthem Medicare Preferred (New Hampshire)",
+            "carrierid": 324,
+            "rank": 2.00473375
+        },
+        {
+            "id": 10145,
+            "name": "Anthem Senior Advantage (HMO) (Ohio)",
+            "carrierid": 324,
+            "rank": 1.9245444000000003
+        },
+        {
+            "id": 14613,
+            "name": "Anthem Catastrophic Pathway X HMO",
+            "carrierid": 324,
+            "rank": 1.84435505
+        },
+        {
+            "id": 10181,
+            "name": "Blue Access Network (Wisconsin)",
+            "carrierid": 324,
+            "rank": 1.7641657000000002
+        },
+        {
+            "id": 14620,
+            "name": "Anthem Bronze Blue Access X PPO Plus",
+            "carrierid": 324,
+            "rank": 1.6839763500000002
+        },
+        {
+            "id": 10039,
+            "name": "Access for Infants & Mothers (AIM) HMO",
+            "carrierid": 324,
+            "rank": 1.603787
+        },
+        {
+            "id": 10162,
+            "name": "Anthem MediBlue (HMO) (Wisconsin)",
+            "carrierid": 324,
+            "rank": 1.5235976500000001
+        },
+        {
+            "id": 13896,
+            "name": "Anthem Minimum Coverage",
+            "carrierid": 324,
+            "rank": 1.5235976500000001
+        },
+        {
+            "id": 14619,
+            "name": "Anthem Silver X Blue Choice PPO Plus",
+            "carrierid": 324,
+            "rank": 1.5235976500000001
+        },
+        {
+            "id": 14609,
+            "name": "Anthem Gold Pathway X PPO",
+            "carrierid": 324,
+            "rank": 1.4434083000000002
+        },
+        {
+            "id": 13890,
+            "name": "Anthem Silver 70 HMO",
+            "carrierid": 324,
+            "rank": 1.4434083000000002
+        },
+        {
+            "id": 14693,
+            "name": "Anthem MediBlue Access (PPO)",
+            "carrierid": 324,
+            "rank": 1.36321895
+        },
+        {
+            "id": 14622,
+            "name": "Anthem Silver Blue Access X PPO Plus",
+            "carrierid": 324,
+            "rank": 1.36321895
+        },
+        {
+            "id": 12662,
+            "name": "UK-RHP Region A",
+            "carrierid": 324,
+            "rank": 1.332527
+        },
+        {
+            "id": 10061,
+            "name": "Anthem Medicare Preferred Core (PPO) (Colorado)",
+            "carrierid": 324,
+            "rank": 1.2830296
+        },
+        {
+            "id": 14621,
+            "name": "Anthem Gold Blue Access X PPO Plus",
+            "carrierid": 324,
+            "rank": 1.2028402500000002
+        },
+        {
+            "id": 13892,
+            "name": "Anthem Gold 80 HMO",
+            "carrierid": 324,
+            "rank": 1.1226509
+        },
+        {
+            "id": 14230,
+            "name": "Anthem Gold Pathway X HMO",
+            "carrierid": 324,
+            "rank": 1.1226509
+        },
+        {
+            "id": 10173,
+            "name": "Anthem MediBlue Select (HMO) (Missouri)",
+            "carrierid": 324,
+            "rank": 1.04246155
+        },
+        {
+            "id": 10074,
+            "name": "Anthem MediBlue Value (HMO) (Connecticut)",
+            "carrierid": 324,
+            "rank": 1.04246155
+        },
+        {
+            "id": 9511,
+            "name": "Blue Access Network (Missouri)",
+            "carrierid": 324,
+            "rank": 0.9622722000000001
+        },
+        {
+            "id": 14616,
+            "name": "Anthem Gold Blue Preferred X HMO Plus",
+            "carrierid": 324,
+            "rank": 0.8820828500000001
+        },
+        {
+            "id": 10081,
+            "name": "Anthem MediBlue Select (HMO) (Connecticut)",
+            "carrierid": 324,
+            "rank": 0.8820828500000001
+        },
+        {
+            "id": 10172,
+            "name": "Anthem MediBlue Select (HMO) (Maine)",
+            "carrierid": 324,
+            "rank": 0.8018935
+        },
+        {
+            "id": 10174,
+            "name": "Anthem MediBlue Select (HMO) (New Hampshire)",
+            "carrierid": 324,
+            "rank": 0.8018935
+        },
+        {
+            "id": 10126,
+            "name": "Anthem Medicare Preferred Core (PPO) (Nevada)",
+            "carrierid": 324,
+            "rank": 0.7217041500000001
+        },
+        {
+            "name": "Blue Medicare Access Value (RPPO)",
+            "carrierid": 324,
+            "rank": 0.7217041500000001
+        },
+        {
+            "id": 14683,
+            "name": "Anthem Catastrophic Pathway PPO",
+            "carrierid": 324,
+            "rank": 0.48113610000000007
+        },
+        {
+            "id": 13893,
+            "name": "Anthem Platinum 90 HMO",
+            "carrierid": 324,
+            "rank": 0.48113610000000007
+        },
+        {
+            "id": 10101,
+            "name": "Anthem Senior Advantage (HMO) (Kentucky)",
+            "carrierid": 324,
+            "rank": 0.48113610000000007
+        },
+        {
+            "id": 14614,
+            "name": "Anthem Bronze Blue Preferred X HMO Plus",
+            "carrierid": 324,
+            "rank": 0.40094675
+        },
+        {
+            "id": 15880,
+            "name": "Anthem MediBlue Access Enhance (PPO) (Ohio)",
+            "carrierid": 324,
+            "rank": 0.3207574
+        },
+        {
+            "id": 14615,
+            "name": "Anthem Bronze Blue Preferred X POS",
+            "carrierid": 324,
+            "rank": 0.24056805000000003
+        },
+        {
+            "id": 14617,
+            "name": "Anthem Silver Blue Preferred X HMO Plus",
+            "carrierid": 324,
+            "rank": 0.24056805000000003
+        },
+        {
+            "id": 14612,
+            "name": "Anthem Catastrophic Pathway X PPO",
+            "carrierid": 324,
+            "rank": 0.1603787
+        },
+        {
+            "id": 15881,
+            "name": "Anthem MediBlue Access Core (Regional PPO) (Ohio)",
+            "carrierid": 324,
+            "rank": 0.1603787
+        },
+        {
+            "id": 17168,
+            "name": "Anthem Commonwealth Coordinated Care (CCC) Plus",
+            "carrierid": 324,
+            "rank": 0.08018935
+        },
+        {
+            "id": 17169,
+            "name": "Anthem HealthKeepers MediBlue Dual Advantage (HMO SNP)",
+            "carrierid": 324,
+            "rank": 0.08018935
+        },
+        {
+            "id": 17199,
+            "name": "Anthem Preferred Blue HRA",
+            "carrierid": 324,
+            "rank": 0.08018935
+        },
+        {
+            "id": 10163,
+            "name": "Anthem Senior Advantage (HMO) (Wisconsin)",
+            "carrierid": 324,
+            "rank": 0.08018935
+        },
+        {
+            "id": 12647,
+            "name": "Anthem Senior Advantage Value (HMO) (Kentucky)",
+            "carrierid": 324,
+            "rank": 0.08018935
+        },
+        {
+            "score": 0.071716115,
+            "id": 2235,
+            "name": "Choice® POS II (Open Access)",
+            "carrierid": 300,
+            "rank": 18457.217936974997
+        },
+        {
+            "score": 0.071716115,
+            "id": 2234,
+            "name": "Choice® POS (Open Access)",
+            "carrierid": 300,
+            "rank": 5204.223317205
+        },
+        {
+            "score": 0.071716115,
+            "id": 2248,
+            "name": "Open Access Managed Choice POS ( Health Fund)",
+            "carrierid": 300,
+            "rank": 3196.1003810899997
+        },
+        {
+            "score": 0.071716115,
+            "id": 2238,
+            "name": "Managed Choice (Open Access)",
+            "carrierid": 300,
+            "rank": 1788.958488675
+        },
+        {
+            "score": 0.071716115,
+            "id": 2247,
+            "name": "Open Access Elect Choice EPO ( Health Fund)",
+            "carrierid": 300,
+            "rank": 1506.396995575
+        },
+        {
+            "score": 0.071716115,
+            "id": 2231,
+            "name": "Open Access  Select ( Health Fund)",
+            "carrierid": 300,
+            "rank": 1165.67373321
+        },
+        {
+            "score": 0.071716115,
+            "id": 2236,
+            "name": "Health Network Only (Open Access)",
+            "carrierid": 300,
+            "rank": 952.3182910849999
+        },
+        {
+            "score": 0.071716115,
+            "id": 2228,
+            "name": "Managed Choice (Open Access) on the Altius Network",
+            "carrierid": 300,
+            "rank": 885.26372356
+        },
+        {
+            "score": 0.071716115,
+            "id": 8265,
+            "name": "Elect Choice EPO (Open Access)",
+            "carrierid": 300,
+            "rank": 688.833284575
+        },
+        {
+            "score": 0.071716115,
+            "id": 3818,
+            "name": "Aexcel Plus Choice POS II",
+            "carrierid": 300,
+            "rank": 608.224371315
+        },
+        {
+            "score": 0.071716115,
+            "id": 3805,
+            "name": "Aexcel Choice POS II",
+            "carrierid": 300,
+            "rank": 578.89248028
+        },
+        {
+            "score": 0.071716115,
+            "id": 3762,
+            "name": "Signature Administrators (PPO)",
+            "carrierid": 300,
+            "rank": 560.9634515299999
+        },
+        {
+            "score": 0.071716115,
+            "id": 2237,
+            "name": "Health Network Option (Open Access)",
+            "carrierid": 300,
+            "rank": 549.130292555
+        },
+        {
+            "score": 0.071716115,
+            "id": 8252,
+            "name": "Basic HMO (available in CA only)",
+            "carrierid": 300,
+            "rank": 417.24435707
+        },
+        {
+            "score": 0.071716115,
+            "id": 2774,
+            "name": "National Advantage Program",
+            "carrierid": 300,
+            "rank": 347.96658998
+        },
+        {
+            "score": 0.071716115,
+            "id": 6885,
+            "name": "Affordable Health Choices limited benefits insurance plan (SRC only)",
+            "carrierid": 300,
+            "rank": 220.16847305
+        },
+        {
+            "score": 0.071716115,
+            "id": 2223,
+            "name": "Value Network HMO (available in CA and NV only)",
+            "carrierid": 300,
+            "rank": 191.62545928
+        },
+        {
+            "score": 0.071716115,
+            "id": 3808,
+            "name": "Aexcel Elect Choice EPO (Open Access)",
+            "carrierid": 300,
+            "rank": 179.72058418999998
+        },
+        {
+            "score": 0.071716115,
+            "id": 2772,
+            "name": "Open Access (HMO)",
+            "carrierid": 300,
+            "rank": 159.998652565
+        },
+        {
+            "score": 0.071716115,
+            "id": 3810,
+            "name": "Aexcel Managed Choice POS (Open Access)",
+            "carrierid": 300,
+            "rank": 151.24928653499998
+        },
+        {
+            "score": 0.071716115,
+            "id": 2243,
+            "name": "HealthFund®  Health Network Only (Open Access)",
+            "carrierid": 300,
+            "rank": 136.40405073
+        },
+        {
+            "score": 0.071716115,
+            "id": 11571,
+            "name": "ActiveCare 1-HD",
+            "carrierid": 300,
+            "rank": 123.78201449
+        },
+        {
+            "score": 0.071716115,
+            "id": 2244,
+            "name": "HealthFund®  Health Network Option (Open Access)",
+            "carrierid": 300,
+            "rank": 119.76591205
+        },
+        {
+            "score": 0.071716115,
+            "id": 3814,
+            "name": "Aexcel PPO",
+            "carrierid": 300,
+            "rank": 96.96018748
+        },
+        {
+            "score": 0.071716115,
+            "id": 3806,
+            "name": "Aexcel Choice POS II ( HealthFund)",
+            "carrierid": 300,
+            "rank": 95.310716835
+        },
+        {
+            "score": 0.071716115,
+            "id": 2245,
+            "name": "HealthFund HMO (available in CA only)",
+            "carrierid": 300,
+            "rank": 94.16325899499999
+        },
+        {
+            "score": 0.071716115,
+            "id": 3819,
+            "name": "Aexcel Plus Choice POS II ( HealthFund)",
+            "carrierid": 300,
+            "rank": 87.70880864499999
+        },
+        {
+            "score": 0.071716115,
+            "id": 3804,
+            "name": "Aexcel  Select (Open Access)",
+            "carrierid": 300,
+            "rank": 80.46548102999999
+        },
+        {
+            "score": 0.071716115,
+            "id": 8732,
+            "name": "Medicare Plan (Open Access HMO)",
+            "carrierid": 300,
+            "rank": 58.95064653
+        },
+        {
+            "score": 0.071716115,
+            "id": 11573,
+            "name": "ActiveCare Select",
+            "carrierid": 300,
+            "rank": 57.444608114999994
+        },
+        {
+            "score": 0.071716115,
+            "id": 3813,
+            "name": "Aexcel Open Access Managed Choice POS (HealthFund)",
+            "carrierid": 300,
+            "rank": 55.508273009999996
+        },
+        {
+            "score": 0.071716115,
+            "id": 11572,
+            "name": "ActiveCare 2",
+            "carrierid": 300,
+            "rank": 52.424480065
+        },
+        {
+            "score": 0.071716115,
+            "id": 3811,
+            "name": "Aexcel Open Access  Select ( HealthFund)",
+            "carrierid": 300,
+            "rank": 45.18115245
+        },
+        {
+            "score": 0.071716115,
+            "id": 15916,
+            "name": "Open Access Elect Choice with RX",
+            "carrierid": 300,
+            "rank": 44.03369461
+        },
+        {
+            "score": 0.071716115,
+            "id": 3827,
+            "name": "Aexcel Plus PPO",
+            "carrierid": 300,
+            "rank": 43.74683015
+        },
+        {
+            "score": 0.071716115,
+            "id": 3831,
+            "name": "Peak Preference HNOption (Open Access) on the Altius Network",
+            "carrierid": 300,
+            "rank": 30.766213335
+        },
+        {
+            "score": 0.071716115,
+            "id": 3263,
+            "name": "Choice POS II on the Altius Network",
+            "carrierid": 300,
+            "rank": 30.69449722
+        },
+        {
+            "score": 0.071716115,
+            "id": 3807,
+            "name": "Aexcel Elect Choice EPO",
+            "carrierid": 300,
+            "rank": 28.614729885
+        },
+        {
+            "score": 0.071716115,
+            "id": 3817,
+            "name": "Aexcel Plus  Select (Open Access)",
+            "carrierid": 300,
+            "rank": 24.311762984999998
+        },
+        {
+            "score": 0.071716115,
+            "id": 4224,
+            "name": "Health Network Only (Open Access) on the Altius Network",
+            "carrierid": 300,
+            "rank": 23.522885719999998
+        },
+        {
+            "score": 0.071716115,
+            "id": 9445,
+            "name": "DC Bronze, Silver and Gold HMO",
+            "carrierid": 300,
+            "rank": 22.66229234
+        },
+        {
+            "score": 0.071716115,
+            "id": 3816,
+            "name": "Aexcel Plus  Select",
+            "carrierid": 300,
+            "rank": 21.658266729999998
+        },
+        {
+            "score": 0.071716115,
+            "id": 3809,
+            "name": "Aexcel Managed Choice POS",
+            "carrierid": 300,
+            "rank": 21.37140227
+        },
+        {
+            "score": 0.071716115,
+            "id": 3815,
+            "name": "Aexcel PPO ( HealthFund)",
+            "carrierid": 300,
+            "rank": 18.6461899
+        },
+        {
+            "score": 0.071716115,
+            "id": 7748,
+            "name": "AZ  Whole Health - Banner Health Network",
+            "carrierid": 300,
+            "rank": 18.431041555
+        },
+        {
+            "score": 0.071716115,
+            "id": 3823,
+            "name": "Aexcel Plus Managed Choice POS (Open Access)",
+            "carrierid": 300,
+            "rank": 17.49873206
+        },
+        {
+            "score": 0.071716115,
+            "id": 3803,
+            "name": "Aexcel  Select",
+            "carrierid": 300,
+            "rank": 17.427015945
+        },
+        {
+            "score": 0.071716115,
+            "id": 3812,
+            "name": "Aexcel Open Access Elect Choice ( HealthFund)",
+            "carrierid": 300,
+            "rank": 15.418964724999999
+        },
+        {
+            "score": 0.071716115,
+            "id": 3824,
+            "name": "Aexcel Plus Open Access  Select ( HealthFund)",
+            "carrierid": 300,
+            "rank": 14.916951919999999
+        },
+        {
+            "score": 0.071716115,
+            "id": 4574,
+            "name": "Health Network Option (Open Access) on the Altius Network",
+            "carrierid": 300,
+            "rank": 13.482629619999999
+        },
+        {
+            "score": 0.071716115,
+            "id": 3821,
+            "name": "Aexcel Plus Elect Choice EPO (Open Access)",
+            "carrierid": 300,
+            "rank": 13.410913505
+        },
+        {
+            "score": 0.071716115,
+            "id": 3828,
+            "name": "Aexcel Plus PPO ( HealthFund)",
+            "carrierid": 300,
+            "rank": 13.267481275
+        },
+        {
+            "score": 0.071716115,
+            "id": 3826,
+            "name": "Aexcel Plus Open Access Managed Choice POS (HealthFund)",
+            "carrierid": 300,
+            "rank": 12.33517178
+        },
+        {
+            "score": 0.071716115,
+            "id": 9424,
+            "name": "DC Bronze, Silver and Gold OAMC",
+            "carrierid": 300,
+            "rank": 12.263455664999999
+        },
+        {
+            "score": 0.071716115,
+            "id": 3830,
+            "name": "Peak Preference HNOnly (Open Access) on the Altius Network",
+            "carrierid": 300,
+            "rank": 12.120023435
+        },
+        {
+            "score": 0.071716115,
+            "id": 2770,
+            "name": "Employee Assistance Program",
+            "carrierid": 300,
+            "rank": 10.972565594999999
+        },
+        {
+            "score": 0.071716115,
+            "id": 9425,
+            "name": "MD Bronze, Silver and Gold HMO",
+            "carrierid": 300,
+            "rank": 8.534217685
+        },
+        {
+            "score": 0.071716115,
+            "id": 5740,
+            "name": "AZ Medicare Individual Arizona Value HMO Plan",
+            "carrierid": 300,
+            "rank": 6.956463155
+        },
+        {
+            "score": 0.071716115,
+            "id": 9426,
+            "name": "MD Bronze, Silver and Gold OAMC",
+            "carrierid": 300,
+            "rank": 4.73326359
+        },
+        {
+            "score": 0.071716115,
+            "id": 3820,
+            "name": "Aexcel Plus Elect Choice EPO",
+            "carrierid": 300,
+            "rank": 4.661547475
+        },
+        {
+            "score": 0.071716115,
+            "id": 3822,
+            "name": "Aexcel Plus Managed Choice POS",
+            "carrierid": 300,
+            "rank": 4.374683015
+        },
+        {
+            "score": 0.071716115,
+            "id": 9423,
+            "name": "DC Bronze, Silver and Gold HNOnly",
+            "carrierid": 300,
+            "rank": 3.7292379799999997
+        },
+        {
+            "score": 0.071716115,
+            "id": 3825,
+            "name": "Aexcel Plus Open Access Elect Choice ( HealthFund)",
+            "carrierid": 300,
+            "rank": 3.2989412899999997
+        },
+        {
+            "score": 0.071716115,
+            "id": 11240,
+            "name": "AZ  Whole Health - Arizona Care Network",
+            "carrierid": 300,
+            "rank": 3.15550906
+        },
+        {
+            "score": 0.071716115,
+            "id": 6886,
+            "name": "Savings Plus of Arizona",
+            "carrierid": 300,
+            "rank": 2.796928485
+        },
+        {
+            "score": 0.071716115,
+            "id": 12442,
+            "name": "AK Silver $10 Copay PD",
+            "carrierid": 300,
+            "rank": 2.223199565
+        },
+        {
+            "score": 0.071716115,
+            "id": 3264,
+            "name": "Elect Choice EPO (Open Access) on the Altius Network",
+            "carrierid": 300,
+            "rank": 2.079767335
+        },
+        {
+            "score": 0.071716115,
+            "id": 12439,
+            "name": "AK Bronze $20 Copay PD",
+            "carrierid": 300,
+            "rank": 1.362606185
+        },
+        {
+            "score": 0.071716115,
+            "id": 15002,
+            "name": "AZ  Leap - Banner Health Network",
+            "carrierid": 300,
+            "rank": 1.362606185
+        },
+        {
+            "score": 0.071716115,
+            "id": 3548,
+            "name": "CA Medicare HMO Orange/San Bernadino/Losa Angeled CA Prime Plan",
+            "carrierid": 300,
+            "rank": 1.29089007
+        },
+        {
+            "score": 0.071716115,
+            "id": 12444,
+            "name": "AZ Banner Health Network Bronze $20 Copay PD",
+            "carrierid": 300,
+            "rank": 1.00402561
+        },
+        {
+            "score": 0.071716115,
+            "id": 12440,
+            "name": "AK Bronze Ded. Only HSA PD",
+            "carrierid": 300,
+            "rank": 0.86059338
+        },
+        {
+            "score": 0.071716115,
+            "id": 16078,
+            "name": "Medicare Advantage",
+            "carrierid": 300,
+            "rank": 0.86059338
+        },
+        {
+            "score": 0.071716115,
+            "id": 12508,
+            "name": "NV Silver $10 Copay AVN HMO PD",
+            "carrierid": 300,
+            "rank": 0.86059338
+        },
+        {
+            "score": 0.071716115,
+            "id": 12448,
+            "name": "AZ Banner Health Network Silver $10 Copay PD",
+            "carrierid": 300,
+            "rank": 0.645445035
+        },
+        {
+            "score": 0.071716115,
+            "id": 12443,
+            "name": "AK Silver $5 Copay 2750 PD",
+            "carrierid": 300,
+            "rank": 0.43029669
+        },
+        {
+            "score": 0.071716115,
+            "id": 12445,
+            "name": "AZ Banner Health Network Bronze HSA PD",
+            "carrierid": 300,
+            "rank": 0.43029669
+        },
+        {
+            "score": 0.071716115,
+            "id": 12604,
+            "name": "Open Choice PPO on the Altius Network",
+            "carrierid": 300,
+            "rank": 0.43029669
+        },
+        {
+            "score": 0.071716115,
+            "id": 12447,
+            "name": "AZ Banner Health Network Gold $5 Copay PD",
+            "carrierid": 300,
+            "rank": 0.35858057499999996
+        },
+        {
+            "score": 0.071716115,
+            "id": 9419,
+            "name": "AZ Marketplace:  Advantage 5750 PD",
+            "carrierid": 300,
+            "rank": 0.35858057499999996
+        },
+        {
+            "score": 0.071716115,
+            "id": 9417,
+            "name": "AZ Marketplace: Banner Health Network Catastrophic 100%",
+            "carrierid": 300,
+            "rank": 0.28686446
+        },
+        {
+            "score": 0.071716115,
+            "id": 9420,
+            "name": "AZ Marketplace: Banner Health Network Gold $5 Copay",
+            "carrierid": 300,
+            "rank": 0.28686446
+        },
+        {
+            "score": 0.071716115,
+            "id": 15003,
+            "name": "AZ  Leap - Banner Health Network",
+            "carrierid": 300,
+            "rank": 0.215148345
+        },
+        {
+            "score": 0.071716115,
+            "id": 9416,
+            "name": "AZ Marketplace: Banner Health Network Bronze $20 Copay",
+            "carrierid": 300,
+            "rank": 0.215148345
+        },
+        {
+            "score": 0.071716115,
+            "id": 9421,
+            "name": "AZ Marketplace: Banner Health Network Silver $10 Copay",
+            "carrierid": 300,
+            "rank": 0.215148345
+        },
+        {
+            "score": 0.071716115,
+            "id": 6889,
+            "name": "Savings Plus of Florida (Brevard and Tampa)",
+            "carrierid": 300,
+            "rank": 0.215148345
+        },
+        {
+            "score": 0.071716115,
+            "id": 12441,
+            "name": "AK Catastrophic 100% PD",
+            "carrierid": 300,
+            "rank": 0.14343223
+        },
+        {
+            "score": 0.071716115,
+            "id": 12446,
+            "name": "AZ Banner Health Network Catastrophic 100% PD",
+            "carrierid": 300,
+            "rank": 0.14343223
+        },
+        {
+            "score": 0.071716115,
+            "id": 12507,
+            "name": "NV Bronze $20 Coapy AVN HMO PD",
+            "carrierid": 300,
+            "rank": 0.14343223
+        },
+        {
+            "score": 0.071716115,
+            "id": 17098,
+            "name": "Health Savings Account",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 17191,
+            "name": "MD Bronze, Silver and Gold Open Access Health Network Only",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16606,
+            "name": "AlaskaCare - Employee",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16609,
+            "name": "AlaskaCare - Employee/Retiree - All Other States",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16608,
+            "name": "AlaskaCare - Retiree Defined Contribution Plan",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16607,
+            "name": "AlaskaCare - Retiree Legacy Plan",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16605,
+            "name": "AlaskaCare Health Plans",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16995,
+            "name": "Auto",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 12449,
+            "name": "AZ Banner Health Network Silver $5 Copay 2750 PD",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 9422,
+            "name": "AZ Marketplace: Banner Health Network Silver $5 Copay 2750",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.071716115,
+            "id": 16199,
+            "name": "Medicare Advantage (SWSCHP)",
+            "carrierid": 300,
+            "rank": 0.071716115
+        },
+        {
+            "score": 0.17910215,
+            "id": 4040,
+            "name": "Medicare Advantage PPO",
+            "carrierid": 290,
+
+            "rank": 168.89332745
+        },
+        {
+            "score": 0.10859615,
+            "id": 6223,
+            "name": "Medicare Complete (HMO)",
+            "carrierid": 290,
+
+            "rank": 166.91228255000001
+        },
+        {
+            "score": 0.10859615,
+            "id": 6057,
+            "name": "Medicare Supplement",
+            "carrierid": 290,
+
+            "rank": 143.88989875000001
+        },
+        {
+            "score": 0.17910215,
+            "id": 4038,
+            "name": "Medicare Advantage HMO",
+            "carrierid": 290,
+
+            "rank": 128.2371394
+        },
+        {
+            "score": 0.10859615,
+            "id": 6220,
+            "name": "MedicareComplete Choice (PPO)",
+            "carrierid": 290,
+
+            "rank": 38.6602294
+        },
+        {
+            "score": 0.10859615,
+            "id": 2203,
+            "name": "Personal Health Insurance Plan",
+            "carrierid": 290,
+
+            "rank": 36.4883064
+        },
+        {
+            "score": 0.17910215,
+            "id": 4039,
+            "name": "Medicare Advantage POS",
+            "carrierid": 290,
+
+            "rank": 30.98467195
+        },
+        {
+            "score": 0.10859615,
+            "id": 6224,
+            "name": "MedicareComplete SecureHorizons",
+            "carrierid": 290,
+
+            "rank": 24.868518350000002
+        },
+        {
+            "score": 0.10859615,
+            "id": 6221,
+            "name": "MedicareComplete Plus (HMO-POS)",
+            "carrierid": 290,
+
+            "rank": 13.574518750000001
+        }
+    ]
+}
